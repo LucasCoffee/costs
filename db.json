@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "5f99",
+      "name": "Portifolio",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 60,
+      "services": [
+        {
+          "name": "React",
+          "cost": "40",
+          "description": "Fazer curso de react",
+          "id": "9e6600a6-d198-480c-ab92-a3f65e8f005d"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
